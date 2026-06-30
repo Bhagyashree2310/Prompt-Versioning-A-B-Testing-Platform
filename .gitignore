@@ -1,0 +1,17 @@
+# Python virtual environment
+backend/venv/
+
+# Environment configurations
+backend/.env
+frontend/.env
+
+# Local database
+backend/prompt_ops.db
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Python cache folders
+**/__pycache__/
+**/.pytest_cache/
